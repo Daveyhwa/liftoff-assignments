@@ -7,12 +7,23 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Sneekr is a eCommerce web application designed around the buying and selling of shoes. From the start you will be able to search and find shoes by different catagories and add them to you cart. When adding something to your cart you will be prompted to either sign up or log in. Once you are done shopping you will be able to modify your cart and checkout. 
 ### Features
-Include Features here
+User Log in/ Sign Up
+Search Functionality
+Cart
+Checkout
 ### Technologies
-Include Technologies here
+Java
+Springboot
+ThymeLeaf
+H2/MySQL
+Angular
+Javascript
+TypeScript
 ### What I'll Have to Learn
-Include what you will need to learn here
+User authentication and encryption
+Pairing Angular with Java
+How to work in a team setting
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/gROIclL6/sneekr
